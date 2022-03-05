@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <project>
 <!-- pom xml Version -->
 <modelVersion>4.0.0</modelVersion>
@@ -14,4 +15,22 @@
 <!-- pom xml Version -->
 <version>1.0</version>
 
+=======
+<project>
+<!-- pom xml Version -->
+<modelVersion>4.0.0</modelVersion>
+
+<!-- Company name -->
+<groupId>org.apache.maven</groupId>
+
+<!-- warfilename -->
+<artifactId>maven</artifactId>
+
+<!-- packaging jar file -->
+<packaging>jar</packaging>
+
+<!-- pom xml Version -->
+<version>1.0</version>
+
+>>>>>>> 229ef793fd72c435062b3a0dfc45527dbbc8c224
 </project>
